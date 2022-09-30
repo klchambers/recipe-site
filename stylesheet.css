@@ -14,3 +14,13 @@ h1 {
 a {
     font-family: cursive;
 }
+
+
+img {
+    max-width: 100%;
+  }
+    
+vid {
+    max-width: 400px;
+    height: auto;
+}
