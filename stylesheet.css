@@ -59,6 +59,27 @@ a {
         height: auto;
     }}
 
+.headerbox {
+    padding: 8px;
+    margin: 1px;
+    border: 1px;
+    overflow: hidden;
+    text-align: center;
+    color: #0f0016;
+    opacity:1;
+    }
+
+.headerbox {
+    background-image: url(images/background3.png);
+    background-position: center;
+    opacity: 0.5;
+    background-size: cover;
+    border-radius: 25px;
+    padding: 8px;
+    margin: 1px;
+    border: 1px;
+        }
+
 .box {
     background-color: #5c6e58;
     border-radius: 25px;
